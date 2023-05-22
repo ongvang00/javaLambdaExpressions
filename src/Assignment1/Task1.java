@@ -3,7 +3,7 @@ package Assignment1;
 import java.sql.SQLOutput;
 import java.sql.Time;
 
-public class SimpleLambdaExpressions {
+public class Task1 {
     public static void main(String[] args) {
         //addition lambda expression
         AddInterface sumExpression;
